@@ -1,3 +1,22 @@
 h1 {
-    color: blueviolet;
+    color: rgb(11, 153, 106);
 }
+h2 {
+    color: rgb(34, 36, 35);
+    text-align: center;
+}
+p {
+    max-width: 915px;
+    align-content: center;
+    /*background-color: #00ff00; 
+*/ 
+}
+/* <style>
+        .content {
+    max-width: 915px;
+    margin: auto;
+    background: rgb(158, 43, 43);
+    padding: 10px;
+   
+}
+        </style>
